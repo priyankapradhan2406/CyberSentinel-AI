@@ -8,7 +8,8 @@ Intelligent Network Threat Detection Using Machine Learning
 
 🚀 Try the live application:
 
-"Launch CyberSentinel AI" (PASTE_YOUR_STREAMLIT_APP_URL_HERE)
+"Launch CyberSentinel AI" 
+https://priyankapradhan2406-cybersentinel-ai-app1-oyzlnw.streamlit.app/
 
 Explore the interactive dashboard and upload a sample NSL-KDD dataset to see machine-learning predictions.
 
