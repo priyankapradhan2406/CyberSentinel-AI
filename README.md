@@ -128,6 +128,7 @@ Add your dashboard screenshots here in the future.
 
 CyberSentinel AI is an educational prototype built using the public NSL-KDD benchmark dataset. Its predictions are not proof of actual cyberattacks and should not be used as a standalone security solution.
 
+![CyberSentinel AI Dashboard](cybersentinel-dashboard.png)
 👩‍💻 Developer
 
 Priyanka Pradhan
