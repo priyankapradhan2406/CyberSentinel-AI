@@ -19,7 +19,7 @@ st.write(
 )
 
 # Load trained model
-MODEL_PATH = "models/cybersentinel_model.pkl"
+MODEL_PATH = "cybersentinel_model.pkl"
 
 if not os.path.exists(MODEL_PATH):
     st.error("Trained model file not found.")
