@@ -24,6 +24,9 @@ MODEL_PATH = "models/cybersentinel_model.pkl"
 if not os.path.exists(MODEL_PATH):
     st.error("Trained model file not found.")
     st.stop()
+if not os.path.exists(MODEL_PATH):
+    st.error("Trained model file not found.")
+    st.stop()
 
 saved = joblib.load(MODEL_PATH)
 model = saved["model"]
